@@ -1,0 +1,60 @@
+body{
+
+background-image: url(AA1.jpg);
+}
+h1.uppercase{
+color:white;
+text-align: center;
+text-transform: uppercase;
+font-family: Verdana;
+font-size: x-large;
+text-decoration: underline;
+text-shadow: 1px 2px black  ;
+}
+h2{
+    color: white;
+    text-shadow: 1px 2px black  ;
+}
+h3.uppercase{
+    text-transform: uppercase;
+    color: white;
+    text-align: left;
+    font-size: medium;
+   
+    text-shadow: 1px 2px black  ;
+}
+.info{
+   
+    font-family: fantasy;
+font-size:medium;
+}
+#personal{
+    float: left;
+    }
+ #unico{
+        clear: both;
+    }
+p{
+    font-family: fantasy;
+        font-size: medium;
+        color: white;
+        
+    }
+a{
+    font-family: fantasy;
+    font-size: medium;
+    color: white;
+}
+.link{
+    font-family: fantasy;
+    font-size: medium;
+    color: white;
+}
+.link1{
+    font-family: fantasy;
+    font-size: medium;
+    color: white;
+}
+img{
+    float: left;
+}
